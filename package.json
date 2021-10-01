@@ -33,6 +33,9 @@
     "VILLERS Mickaël <mickael.villers@epitech.eu> (https://github.com/villers)",
     "wb9688 <wbertrums@gmail.com> (https://github.com/wb9688)"
   ],
+  "resolutions": {
+    "graceful-fs": "4.2.3"
+  },
   "dependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
